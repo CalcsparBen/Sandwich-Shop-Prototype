@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<title>Ben's Sandwich Shop</title>
+</head>
+
+<body>
+
+<div>
+<h1>Ben's Sandwich Shop</h1>
+<h4><em>Home of fresh, delicious home-made sandwiches.</em></h4>
+</div>
+
+<div>
+
+<h3>Sandwiches:</h3>
+
+<ul>
+<li><strong>Vegan Sub</strong> - £3.00<br>
+A delicious, healthy, environmentally friendly Sandwich; containing, lettuce, tamato and vegan cheese.<br>
+<button>Order</button></li>
+
+<li><strong>BLT Sandwitch</strong> - £3.25<br>
+This mouthwatering, flavoured sandwich contains freshly grown tomatos and lettuce accompanied with crispy bacon which adds great texture.<br>
+<button>Order</button></li>
+
+<li><strong>Ham and Cheese Baguette</strong> - £3.50<br>
+A unique, crispy sandwich enjoyed by all. The crispy bread contrasts well with the melted cheese and is topped off with sweet ham.<br>
+<button>Order</button></li>
+</ul>
+
+</div>
+
+</body>
+
+</html>
